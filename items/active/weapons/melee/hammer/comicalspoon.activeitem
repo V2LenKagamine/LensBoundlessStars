@@ -9,7 +9,7 @@
   "tooltipKind" : "hammer",
   "category" : "hammer",
   "twoHanded" : true,
-  "itemTags" : ["weapon","melee","hammer"],
+  "itemTags" : ["weapon","melee","hammer","upgradeableWeapon"],
 
   "inventoryIcon" : "spoon.png",
 
@@ -27,11 +27,12 @@
   "primaryAbilityType" : "hammersmash",
   "primaryAbility" : {
   "fireTime" : 1.2,
-  "baseDps" : 10
+  "baseDps" : 6
   },
   "altAbilityType" : "parry",
 
   "critChance" : 2,
   "critBonus" : 8,
+  "stunChance" : 25,
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
