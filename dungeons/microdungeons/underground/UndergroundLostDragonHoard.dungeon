@@ -1,0 +1,19 @@
+{
+	"metadata": {
+		"name": "UndergroundLostDragonHoard",
+		"species": "generic",
+		"rules": [],
+		"anchor": ["UndergroundLostDragonHoard"],
+		"gravity": 80,
+		"maxRadius": 200,
+		"maxParts": 1,
+		"protected": false
+	},
+	"parts": [{
+		"name": "UndergroundLostDragonHoard",
+		"rules": [
+			["maxSpawnCount", [1]]
+		],
+		"def": ["tmx", "UndergroundLostDragonHoard.json"]
+	}]
+}

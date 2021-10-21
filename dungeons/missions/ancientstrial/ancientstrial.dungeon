@@ -1,0 +1,18 @@
+{
+	"metadata": {
+		"name": "ancientstrial",
+		"species": "generic",
+		"rules": [],
+		"anchor": ["ancientstrial"],
+		"maxRadius": 1000000,
+		"maxParts": 1,
+		"protected": false
+	},
+	"parts": [{
+		"name": "ancientstrial",
+		"rules": [
+			["maxSpawnCount", [1]]
+		],
+		"def": ["tmx", "ancientstrial.json"]
+	}]
+}

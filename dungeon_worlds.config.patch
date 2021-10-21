@@ -1,0 +1,20 @@
+[
+  {
+		"op": "add",
+		"path": "/ancientstrial",
+		"value": {
+			"primaryDungeon": "ancientstrial",
+			"weatherPool": [
+				[0.5, "ashstormlesser"],
+        [0.5, "clear"]
+			],
+			"threatLevel": 10,
+			"gravity": 80,
+			"worldSize": [4000, 4000],
+			"dungeonBaseHeight": 2400,
+			"dungeonSurfaceHeight": 1050,
+			"ambientLightLevel": [80, 80, 80],
+			"biome": "infernus"
+		}
+  }
+]
