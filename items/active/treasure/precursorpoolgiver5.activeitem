@@ -1,0 +1,25 @@
+{
+  "itemName" : "precursorpoolgiver5",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "resourceItem",
+  "description" : "I wonder whats inside???",
+  "shortdescription" : "Precursor Item Bag",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "rewardbag.png",
+  "animation" : "rewardbag.animation",
+  "animationCustom" : {},
+  "scripts" : ["treasurebag.lua"],
+
+  "fireTime" : 1.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "fuprecursorResources",
+    "level" : 1,
+    "times" : 5
+  }
+}

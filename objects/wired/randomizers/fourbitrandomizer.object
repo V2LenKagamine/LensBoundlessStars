@@ -1,0 +1,32 @@
+{
+  "objectName" : "fourbitrandomizer",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Picks a random output to output to. This one will output to one of four outputs. The second input re-randomizes the output.",
+  "shortdescription" : "Four Bit Randomizer",
+  "race" : "human",
+
+  "category" : "wire",
+  "price" : 100,
+
+  "inventoryIcon" : "fourbitrandomizer.png",
+  "orientations" : [
+    {
+      "image" : "fourbitrandomizer.png",
+      "imagePosition" : [-8, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "bitrandomizer.lua" ],
+  "gatetype" : 4,
+
+  "inputNodes" : [[-1, 1], [0,1]],
+  "outputNodes" : [ [-1, 0], [0, 0], [0,-1], [-1,-1] ]
+
+}

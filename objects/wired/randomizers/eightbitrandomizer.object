@@ -1,0 +1,32 @@
+{
+  "objectName" : "eightbitrandomizer",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Picks a random output to output to. This one will output to one of eight outputs. The second input re-randomizes the output.",
+  "shortdescription" : "Eight Bit Randomizer",
+  "race" : "human",
+
+  "category" : "wire",
+  "price" : 100,
+
+  "inventoryIcon" : "eightbitrandomizer.png",
+  "orientations" : [
+    {
+      "image" : "eightbitrandomizer.png",
+      "imagePosition" : [-16, -16],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "bitrandomizer.lua" ],
+  "gatetype" : 8,
+
+  "inputNodes" : [[-1, 1], [0,1]],
+  "outputNodes" : [ [-2, 0], [-1, 0], [0,0], [1,0],[-2,-1],[-1,-1],[0,-1],[1,-1] ]
+
+}

@@ -1,0 +1,32 @@
+{
+  "objectName" : "twobitrandomizer",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Picks a random output to output to. This one will either ouput on the first or second output. The second input re-randomizes the output.",
+  "shortdescription" : "Two Bit Randomizer",
+  "race" : "human",
+
+  "category" : "wire",
+  "price" : 100,
+
+  "inventoryIcon" : "twobitrandomizer.png",
+  "orientations" : [
+    {
+      "image" : "twobitrandomizer.png",
+      "imagePosition" : [-8, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ],
+
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "bitrandomizer.lua" ],
+  "gatetype" : 2,
+
+  "inputNodes" : [[-1, 0], [0,0]],
+  "outputNodes" : [ [-1, -1], [0, -1] ]
+
+}

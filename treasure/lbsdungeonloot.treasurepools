@@ -1,0 +1,30 @@
+{
+  "precursorresources5" : [
+  [1, {
+    "fill" : [
+    {"weight" : 1.0, "item" : "precursorpoolgiver5"}
+    ], "allowDuplication" : true
+    }]
+  ],
+  "precursorresources10" : [
+  [1, {
+    "fill" : [
+    {"weight" : 1.0, "item" : "precursorpoolgiver10"}
+    ], "allowDuplication" : true
+    }]
+  ],
+  "precursorresources15" : [
+  [1, {
+    "fill" : [
+    {"weight" : 1.0, "item" : "precursorpoolgiver15"}
+    ], "allowDuplication" : true
+    }]
+  ],
+  "dungeonupgradekit" : [
+  [1, {
+    "fill" : [
+    {"weight" : 1.0, "item" : "upgradekit"}
+    ], "allowDuplication" : true
+    }]
+  ]
+}
