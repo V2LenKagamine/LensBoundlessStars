@@ -23,7 +23,7 @@
   "dungeonupgradekit" : [
   [1, {
     "fill" : [
-    {"weight" : 1.0, "item" : "upgradekit"}
+    {"weight" : 1.0, "item" : "cuddlehorse"}
     ], "allowDuplication" : true
     }]
   ]

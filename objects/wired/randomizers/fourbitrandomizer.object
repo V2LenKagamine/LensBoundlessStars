@@ -12,15 +12,13 @@
 
   "inventoryIcon" : "fourbitrandomizer.png",
   "orientations" : [
-    {
-      "image" : "fourbitrandomizer.png",
-      "imagePosition" : [-8, -8],
+  {
+    "dualImage" : "fourbitrandomizer.png",
+    "imagePosition" : [-8, -8],
 
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ],
-
-      "direction" : "right"
-    }
+    "spaceScan" : 0.1,
+    "anchors" : [ "background" ]
+  }
   ],
 
   "scripts" : [ "bitrandomizer.lua" ],

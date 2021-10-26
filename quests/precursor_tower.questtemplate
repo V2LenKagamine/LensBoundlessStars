@@ -1,0 +1,27 @@
+{
+	"id" : "precursor_tower",
+	"mainQuest" : true,
+	"title" : "A Dark Tower",
+	"prerequisites" : [ ],
+	"text" : "I've heard of an impenatrateable precursor tower, sounds like I should take a crack at it.",
+	"completionText" : "I've conqored the tower, and now swim in precursor materials.",
+	"portraits" : {
+		"questStarted" : "questGiver",
+		"questComplete" : "questReceiver"
+	},
+	"moneyRange" : [0, 0],
+	"rewards" : [
+		[ [ "fuscienceresource", 10000 ] ]
+	],
+
+	"updateDelta" : 10,
+	"script" : "/quests/scripts/main.lua",
+	"scriptConfig" : {
+		"portraits" : {
+			"default" : "player"
+		},
+		"associatedMission" : "ancientstrial",
+		"turnInDescription" : "Climb the precursor tower.",
+		"requireTurnIn" : true
+	}
+}

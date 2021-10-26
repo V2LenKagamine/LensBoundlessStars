@@ -4,8 +4,9 @@ function init()
   else
     object.setAllOutputNodes(storage.state)
   end
-  local updated = false
+
   self.gateoutputs = storage.gateoutputs or config.getParameter("gatetype")
+  local gateoutputs = config.getParameter("gatetype")
   self.outputvalue = storage.outputvalue or math.random(0,(gateoutputs-1))
 end
 

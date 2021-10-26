@@ -13,13 +13,11 @@
   "inventoryIcon" : "eightbitrandomizer.png",
   "orientations" : [
     {
-      "image" : "eightbitrandomizer.png",
+      "dualImage" : "eightbitrandomizer.png",
       "imagePosition" : [-16, -16],
 
       "spaceScan" : 0.1,
-      "anchors" : [ "background" ],
-
-      "direction" : "right"
+      "anchors" : [ "background" ]
     }
   ],
 

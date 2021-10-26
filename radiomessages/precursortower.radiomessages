@@ -1,0 +1,73 @@
+{
+
+  "precursortower01" : {
+    "type" : "mission",
+    "text" : "Climbing this tower from the outside seems fruitless, seems like you're going to have to go in."
+  },
+  "precursortower02" : {
+    "type" : "mission",
+    "text" : "High energy levels detected. I recommend looking to your left."
+  },
+  "precursortower03" : {
+    "type" : "mission",
+    "text" : "Building Scan complete: 12 floors, unable to determine purpose of building. Extreme energy fluctuations located at the peak."
+  },
+  "precursortower04" : {
+    "type" : "mission",
+    "text" : "Massive temperature and Humidity spikes detected. Primary estimate: Terraforming Research Tower."
+  },
+  "precursortower05" : {
+    "type" : "mission",
+    "text" : "Error: Unable to determine purposes of [2] floors. [3,10]"
+  },
+  "precursortower06" : {
+    "type" : "mission",
+    "text" : "High Energy Fluid detected in nearby pipes; energy deficiency detected in corridor exit."
+  },
+  "precursortower07" : {
+    "type" : "mission",
+    "text" : "High amounts of biological signals detected [2] floors above."
+  },
+  "precursortower08" : {
+    "type" : "mission",
+    "text" : "High energy signature of [ERROR] signals detected [3] floors above."
+  },
+  "precursortower09" : {
+    "type" : "mission",
+    "text" : "Door Circuitry Jam detected. Approximate 1/8 chance of successful door operation detected. "
+  },
+
+
+  "precursortowersecret01" : {
+    "type" : "mission",
+    "text" : "Impressive, it seems this tower was designed with teamwork in mind. Keep on the lookout."
+  },
+  "precursortowersecret02" : {
+    "type" : "mission",
+    "text" : "I'm detecting that the switch is linked to something further up the tower, look out for more."
+  },
+  "precursortowersecret03" : {
+    "type" : "mission",
+    "text" : "You're not that high off the ground, but a fall would still likely break something."
+  },
+  "precursortowersecret04" : {
+    "type" : "mission",
+    "text" : "It appears the doors here are linked via Bluespace tunnels, allowing short range instantaneous travel."
+  },
+  "precursortowersecret05" : {
+    "type" : "mission",
+    "text" : "Localized shield malfunctions detected nearby, you may be able to alter some terrain here."
+  },
+  "precursortowersecret06" : {
+    "type" : "mission",
+    "text" : "Error: Signal Overload. Likely cause: Nearby Singularity/Wormhole to universe shortly after creation."
+  },
+  "precursortowersecret07" : {
+    "type" : "mission",
+    "text" : "You are much higher off the ground. A fall would most certainly lead to a swift demise. Warning: Intrusive thoughts detected."
+  },
+  "precursortowersecret08" : {
+    "type" : "mission",
+    "text" : "Approximate Altitude: [1300] units from sea level of planet. The curvature of the planet is clearly visible."
+  }
+}
