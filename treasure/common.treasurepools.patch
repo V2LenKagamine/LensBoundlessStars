@@ -3,7 +3,7 @@
 	"op": "add",
 	"path": "/uniqueWeapon/2/1/pool/-",
 	"value": {
-		"weight": 0.5,
+		"weight": 0.1,
 		"item": "comicalspoon"
 	}
 },
@@ -11,8 +11,16 @@
 	"op": "add",
 	"path": "/uniqueWeapon/2/1/pool/-",
 	"value": {
-		"weight": 0.5,
+		"weight": 0.1,
 		"item": "firespitter"
+	}
+},
+{
+	"op": "add",
+	"path": "/uniqueWeapon/2/1/pool/-",
+	"value": {
+		"weight": 0.1,
+		"item": "comicalknife"
 	}
 }
 ]
