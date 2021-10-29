@@ -1,0 +1,9 @@
+[
+	[
+		{
+			"op": "add",
+			"path": "/rewards/0/-",
+			"value":   ["towercordinates",1] 
+		}
+	]
+]

@@ -1,0 +1,17 @@
+{
+  "missionName" : "ancientstrial",
+  "icon" : "ancientstrial.png",
+  "missionWorld" : "ancientstrial",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Precursor Tower(10)",
+      "repeatButtonText" : "Precursor Tower(10)(R)",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "Ancient, technologically fantastic ruins of a tower from a long-forgotten race.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

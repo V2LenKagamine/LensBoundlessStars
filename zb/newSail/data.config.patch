@@ -1,0 +1,9 @@
+[
+	[
+		{
+			"op": "add",
+			"path": "/Data/missions/secondary/-",
+			"value": [ "/ai/ancientstrial.aimission", "ancientstrial" ]
+		}
+	]
+]

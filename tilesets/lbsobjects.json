@@ -1,12 +1,4 @@
 { "columns":0,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json1",
-         "target":"lbsobjects.json"
-        }
-    },
  "grid":
     {
      "height":8,
@@ -16,7 +8,7 @@
  "margin":0,
  "name":"lbsobjects",
  "spacing":0,
- "tilecount":3,
+ "tilecount":4,
  "tiledversion":"1.7.2",
  "tileheight":32,
  "tileproperties":
@@ -38,6 +30,12 @@
          "imagePositionX":"-8",
          "imagePositionY":"-8",
          "object":"twobitrandomizer"
+        },
+     "3":
+        {
+         "imagePositionX":"-8",
+         "imagePositionY":"0",
+         "object":"towerquestturnin"
         }
     },
  "tilepropertytypes":
@@ -55,6 +53,12 @@
          "object":"string"
         },
      "2":
+        {
+         "imagePositionX":"string",
+         "imagePositionY":"string",
+         "object":"string"
+        },
+     "3":
         {
          "imagePositionX":"string",
          "imagePositionY":"string",
@@ -78,6 +82,12 @@
      "2":
         {
          "image":"..\/tiled\/objects\/wired\/randomizers\/twobitrandomizer.png",
+         "imageheight":16,
+         "imagewidth":16
+        },
+     "3":
+        {
+         "image":"..\/tiled\/objects\/quests\/towerquestturnin.png",
          "imageheight":16,
          "imagewidth":16
         }

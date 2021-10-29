@@ -1,0 +1,12 @@
+{
+  "itemName": "towercordinates",
+  "rarity": "rare",
+  "category": "craftingMaterial",
+  "price": 100,
+  "inventoryIcon": "towercordinates.png",
+  "description": "Cordinates to a far away tower.",
+  "shortdescription": "Tower Cordinates",
+  "tooltipKind": "food",
+  "itemTags": ["reagent"],
+  "pickupQuestTemplates": ["ancientstrial"]
+}

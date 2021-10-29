@@ -1,10 +1,10 @@
 {
-	"id" : "precursor_tower",
+	"id" : "ancientstrial",
 	"mainQuest" : true,
 	"title" : "A Dark Tower",
 	"prerequisites" : [ ],
 	"text" : "I've heard of an impenatrateable precursor tower, sounds like I should take a crack at it.",
-	"completionText" : "I've conqored the tower, and now swim in precursor materials.",
+	"completionText" : "I've conquered the tower, and now swim in precursor materials.",
 	"portraits" : {
 		"questStarted" : "questGiver",
 		"questComplete" : "questReceiver"
